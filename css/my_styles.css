@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+p{
+    font-family: papyrus;
+}
+div{
+    color: darkblue;
+}
+/* .left */
+title{
+    font-size: medium;
+}
+li{
+    font-style: italic;
+}
+/*-class =" "*/
